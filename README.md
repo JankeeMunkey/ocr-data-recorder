@@ -1,4 +1,4 @@
 # ocr-data-recorder
-![Tesseract OCR]([https://github.com/JankeeMunkey/ocr-data-recorder/blob/main/Images/tesseract-ocr.png)
+![Tesseract OCR]([Images/tesseract-ocr.png?raw=true "Title")
 
 Tool that leverages OCR to automate platform checks that otherwise would not be automatable.
